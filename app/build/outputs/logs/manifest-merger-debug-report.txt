@@ -1,0 +1,406 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3e9b3e35c8e051c49decf339467281c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.omegaes:Whatsapp-API:1.0.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\Whatsapp-API-1.0.3.aar\eda2d73af0b6ff02e7a9ba82dd690b1f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\1e579d318e8de332cca6447fdadbace4\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\29107eb4ad580530d5e6941941753ba7\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\618bafbe67556fe6899e20851250fc79\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\da5752b7d7b29b0711007d51998e5306\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61d640b63b8d61d44eb4c0ba3c9c8a73\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\98d9f9e148625491d5ae67c34aeba0a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32856d45673d036cf9488e2e4a1d37f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0630114f4e9d3439dacdacad1dce6e34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-3.3.0.aar\1a02b6954ad58929363e7c37099c8786\AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7723a44d2b9cabd07350e890fc92a5a8\AndroidManifest.xml:17:1-22:12
+MERGED from [org.sufficientlysecure:html-textview:3.6] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\html-textview-3.6.aar\4cfaa0da0aca894d32c8e8d76caca1bc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8f8bc6f27f480a5ae330f26f29d8f3d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e94720a8a118b1d58c88c702db47cbf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0ea4a1a864fa7b93e7486b85098e7746\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\0fcbf396a85b6d212ce1d3bbac53cbfc\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\dae7d06aef136afd1949700343bf2918\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\0a66899d4eb87d911de1031b53d72c7c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8c26321fa5879da8c5969598e4500e25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\eba60878fb8ff8ec91d7b5e0b2c7a67f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bb9058b3c854ca2f9382dd68d0763335\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\62ded2b4322547d3dfba2b4d686344bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c364c29088b9311d31db5a7005cf1c36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3728b0c7f7084f6e53c11ef41267b068\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\babaeb4b886ecd1ec12f0684b240958e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a90a6518539f80333cccd5bf7371676b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8357de39e700d2c548996d636dcdd085\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9effd7c62b0cbe1920f051c4a1d7204c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\061227d440c470d2a690abc895b70b40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c1a84da92be7f4eac909c0629b22d5d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\821d59a5eda533f34b79da76f0baa5f2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\02a2c945fe6732666a130cf6dab85dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ba9c286393bc001aa39833953b021d9b\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\78a7e27f2dd072217aae62e249e5abe8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\09c30fe884f8bf1d2a6b8d4ca25760b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c208671db24f72baa4ae17afa4dd9e0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\54d9db98e3f67ac48e805b715ed531e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\436fe1b1b939b964ab37db5772145454\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c3081a278fdb94c3d613b43e8c2c5641\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6ad2d4638c70108fe673972600a0d1a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c772eb113db0fabfdd361352aac3e4e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\55670c30642e84ddbb7a352ed6648493\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e84bfb0670a5f835c3d231a332b9bb2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:18:1-35:12
+MERGED from [eu.chainfire:libsuperuser:1.0.0.201811281328] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\libsuperuser-1.0.0.201811281328.aar\6527b81885d8b4e93c4294028c533154\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+	package
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:11:5-67
+MERGED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:11:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:8:5-89:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3e9b3e35c8e051c49decf339467281c4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3e9b3e35c8e051c49decf339467281c4\AndroidManifest.xml:22:5-20
+MERGED from [com.github.omegaes:Whatsapp-API:1.0.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\Whatsapp-API-1.0.3.aar\eda2d73af0b6ff02e7a9ba82dd690b1f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.omegaes:Whatsapp-API:1.0.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\Whatsapp-API-1.0.3.aar\eda2d73af0b6ff02e7a9ba82dd690b1f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\1e579d318e8de332cca6447fdadbace4\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\1e579d318e8de332cca6447fdadbace4\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\29107eb4ad580530d5e6941941753ba7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\29107eb4ad580530d5e6941941753ba7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\618bafbe67556fe6899e20851250fc79\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\618bafbe67556fe6899e20851250fc79\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61d640b63b8d61d44eb4c0ba3c9c8a73\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61d640b63b8d61d44eb4c0ba3c9c8a73\AndroidManifest.xml:9:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-3.3.0.aar\1a02b6954ad58929363e7c37099c8786\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-3.3.0.aar\1a02b6954ad58929363e7c37099c8786\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:27:5-35:19
+MERGED from [org.sufficientlysecure:html-textview:3.6] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\html-textview-3.6.aar\4cfaa0da0aca894d32c8e8d76caca1bc\AndroidManifest.xml:11:5-20
+MERGED from [org.sufficientlysecure:html-textview:3.6] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\html-textview-3.6.aar\4cfaa0da0aca894d32c8e8d76caca1bc\AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8f8bc6f27f480a5ae330f26f29d8f3d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8f8bc6f27f480a5ae330f26f29d8f3d1\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\0fcbf396a85b6d212ce1d3bbac53cbfc\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\0fcbf396a85b6d212ce1d3bbac53cbfc\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\dae7d06aef136afd1949700343bf2918\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\dae7d06aef136afd1949700343bf2918\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\0a66899d4eb87d911de1031b53d72c7c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\0a66899d4eb87d911de1031b53d72c7c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\821d59a5eda533f34b79da76f0baa5f2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\821d59a5eda533f34b79da76f0baa5f2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ba9c286393bc001aa39833953b021d9b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ba9c286393bc001aa39833953b021d9b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:27:5-33:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\821d59a5eda533f34b79da76f0baa5f2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.App_sflash
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:16:9-23:20
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:17:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.MainActivity
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:25:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:29:13-49
+	android:launchMode
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:27:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:26:13-64
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.Contact
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:parentActivityName
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:35:13-78
+	android:label
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:33:13-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:38:13-40:72
+	android:value
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:39:17-63
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.Apropos
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:43:9-52:20
+	android:parentActivityName
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:46:13-78
+	android:label
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:44:13-59
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.DetailAnnonce
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:54:9-63:20
+	android:parentActivityName
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:57:13-78
+	android:label
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:56:13-43
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:55:13-65
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.ResultatSearch
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:65:9-74:20
+	android:parentActivityName
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:68:13-78
+	android:label
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:67:13-47
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:66:13-66
+activity#com.openclassrooms.mynavdrawer.Controllers.Activities.UneCategorie
+ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:76:9-87:20
+	android:parentActivityName
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:80:13-78
+	android:label
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:78:13-50
+	android:launchMode
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:79:13-43
+	android:name
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:77:13-64
+uses-sdk
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3e9b3e35c8e051c49decf339467281c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3e9b3e35c8e051c49decf339467281c4\AndroidManifest.xml:20:5-44
+MERGED from [com.github.omegaes:Whatsapp-API:1.0.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\Whatsapp-API-1.0.3.aar\eda2d73af0b6ff02e7a9ba82dd690b1f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.omegaes:Whatsapp-API:1.0.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\Whatsapp-API-1.0.3.aar\eda2d73af0b6ff02e7a9ba82dd690b1f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\1e579d318e8de332cca6447fdadbace4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\1e579d318e8de332cca6447fdadbace4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\29107eb4ad580530d5e6941941753ba7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\29107eb4ad580530d5e6941941753ba7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\618bafbe67556fe6899e20851250fc79\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\618bafbe67556fe6899e20851250fc79\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\da5752b7d7b29b0711007d51998e5306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\da5752b7d7b29b0711007d51998e5306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61d640b63b8d61d44eb4c0ba3c9c8a73\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61d640b63b8d61d44eb4c0ba3c9c8a73\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\98d9f9e148625491d5ae67c34aeba0a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\98d9f9e148625491d5ae67c34aeba0a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32856d45673d036cf9488e2e4a1d37f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\32856d45673d036cf9488e2e4a1d37f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0630114f4e9d3439dacdacad1dce6e34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0630114f4e9d3439dacdacad1dce6e34\AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-3.3.0.aar\1a02b6954ad58929363e7c37099c8786\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-3.3.0.aar\1a02b6954ad58929363e7c37099c8786\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7723a44d2b9cabd07350e890fc92a5a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7723a44d2b9cabd07350e890fc92a5a8\AndroidManifest.xml:20:5-44
+MERGED from [org.sufficientlysecure:html-textview:3.6] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\html-textview-3.6.aar\4cfaa0da0aca894d32c8e8d76caca1bc\AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:html-textview:3.6] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\html-textview-3.6.aar\4cfaa0da0aca894d32c8e8d76caca1bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8f8bc6f27f480a5ae330f26f29d8f3d1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8f8bc6f27f480a5ae330f26f29d8f3d1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e94720a8a118b1d58c88c702db47cbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e94720a8a118b1d58c88c702db47cbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0ea4a1a864fa7b93e7486b85098e7746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0ea4a1a864fa7b93e7486b85098e7746\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\0fcbf396a85b6d212ce1d3bbac53cbfc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\0fcbf396a85b6d212ce1d3bbac53cbfc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\dae7d06aef136afd1949700343bf2918\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\dae7d06aef136afd1949700343bf2918\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\0a66899d4eb87d911de1031b53d72c7c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\0a66899d4eb87d911de1031b53d72c7c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8c26321fa5879da8c5969598e4500e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8c26321fa5879da8c5969598e4500e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\eba60878fb8ff8ec91d7b5e0b2c7a67f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\eba60878fb8ff8ec91d7b5e0b2c7a67f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bb9058b3c854ca2f9382dd68d0763335\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bb9058b3c854ca2f9382dd68d0763335\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\62ded2b4322547d3dfba2b4d686344bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\62ded2b4322547d3dfba2b4d686344bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c364c29088b9311d31db5a7005cf1c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c364c29088b9311d31db5a7005cf1c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3728b0c7f7084f6e53c11ef41267b068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3728b0c7f7084f6e53c11ef41267b068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\babaeb4b886ecd1ec12f0684b240958e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\babaeb4b886ecd1ec12f0684b240958e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a90a6518539f80333cccd5bf7371676b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a90a6518539f80333cccd5bf7371676b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8357de39e700d2c548996d636dcdd085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8357de39e700d2c548996d636dcdd085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9effd7c62b0cbe1920f051c4a1d7204c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9effd7c62b0cbe1920f051c4a1d7204c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\061227d440c470d2a690abc895b70b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\061227d440c470d2a690abc895b70b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c1a84da92be7f4eac909c0629b22d5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c1a84da92be7f4eac909c0629b22d5d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\821d59a5eda533f34b79da76f0baa5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\821d59a5eda533f34b79da76f0baa5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\02a2c945fe6732666a130cf6dab85dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\02a2c945fe6732666a130cf6dab85dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ba9c286393bc001aa39833953b021d9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ba9c286393bc001aa39833953b021d9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\78a7e27f2dd072217aae62e249e5abe8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\78a7e27f2dd072217aae62e249e5abe8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\09c30fe884f8bf1d2a6b8d4ca25760b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\09c30fe884f8bf1d2a6b8d4ca25760b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c208671db24f72baa4ae17afa4dd9e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c208671db24f72baa4ae17afa4dd9e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\54d9db98e3f67ac48e805b715ed531e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\54d9db98e3f67ac48e805b715ed531e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\436fe1b1b939b964ab37db5772145454\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\436fe1b1b939b964ab37db5772145454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c3081a278fdb94c3d613b43e8c2c5641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c3081a278fdb94c3d613b43e8c2c5641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6ad2d4638c70108fe673972600a0d1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6ad2d4638c70108fe673972600a0d1a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c772eb113db0fabfdd361352aac3e4e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c772eb113db0fabfdd361352aac3e4e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\55670c30642e84ddbb7a352ed6648493\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\55670c30642e84ddbb7a352ed6648493\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e84bfb0670a5f835c3d231a332b9bb2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e84bfb0670a5f835c3d231a332b9bb2c\AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:23:5-44
+MERGED from [eu.chainfire:libsuperuser:1.0.0.201811281328] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\libsuperuser-1.0.0.201811281328.aar\6527b81885d8b4e93c4294028c533154\AndroidManifest.xml:7:5-9:41
+MERGED from [eu.chainfire:libsuperuser:1.0.0.201811281328] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\libsuperuser-1.0.0.201811281328.aar\6527b81885d8b4e93c4294028c533154\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [com.github.firdausmaulan:GlideSlider:1.0.2] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\GlideSlider-1.0.2.aar\8b25828e1ded8636a860ae54753df950\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\ARABOY\Desktop\Android\AppliNigerEmploi\app\src\main\AndroidManifest.xml:2:1-91:12 reason: com.glide.slider.library requested WRITE_EXTERNAL_STORAGE
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a20dbed473da392ba644862d0b78b248\AndroidManifest.xml:33:19-68
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.3.0.aar\aafc3a9a59ccd6d35426cfb7aefd6b63\AndroidManifest.xml:33:13-75
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\c22b26d05fa1c560274c8015c21e2fd3\AndroidManifest.xml:48:25-92
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.3.0.aar\334d7979a563ed59fb638de814ae0977\AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] C:\Users\ARABOY\.gradle\caches\transforms-1\files-1.1\twitter-core-3.3.0.aar\a23ab89d64862b1885d92afb2ccd69c3\AndroidManifest.xml:29:13-79
